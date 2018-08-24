@@ -1,8 +1,10 @@
 top\banyaoqiang\RPCApi\api\TestService.class
+top\banyaoqiang\RPCApi\api\platform\PlatformService.class
 top\banyaoqiang\RPCApi\api\UserAuthorityService.class
 top\banyaoqiang\RPCApi\protocal\RPCResponses.class
 top\banyaoqiang\RPCApi\common\coder\RPCEncoder.class
 top\banyaoqiang\RPCApi\entity\ServerInfo.class
+top\banyaoqiang\RPCApi\entity\platform\WebFunction.class
 top\banyaoqiang\RPCApi\entity\TestData.class
 top\banyaoqiang\RPCApi\common\coder\RPCDecoder.class
 top\banyaoqiang\RPCApi\api\ServerInfoService.class
@@ -11,3 +13,5 @@ top\banyaoqiang\RPCApi\entity\OperationResult.class
 top\banyaoqiang\RPCApi\protocal\RPCRequest.class
 top\banyaoqiang\RPCApi\protocal\RPCResponse.class
 top\banyaoqiang\RPCApi\common\serialization\SerializationUtil.class
+top\banyaoqiang\RPCApi\entity\User.class
+top\banyaoqiang\RPCApi\entity\platform\AuthorLevel.class

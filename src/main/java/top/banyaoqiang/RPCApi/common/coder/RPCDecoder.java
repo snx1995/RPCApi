@@ -26,6 +26,7 @@ public class RPCDecoder extends ByteToMessageDecoder {
             byteBuf.resetReaderIndex();
             return;
         }
+
         byte[] bytes = new byte[len];
         byteBuf.readBytes(bytes);
         Object msg = SerializationUtil.deserialize(bytes, clazz);

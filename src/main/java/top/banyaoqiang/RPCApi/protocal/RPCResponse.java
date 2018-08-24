@@ -10,6 +10,7 @@ import java.io.Serializable;
 public class RPCResponse implements Serializable {
     private int status;
     private Object result;
+    private Exception exception;
 
     public RPCResponse() {}
 
@@ -32,5 +33,17 @@ public class RPCResponse implements Serializable {
 
     public void setResult(Object result) {
         this.result = result;
+    }
+
+    public Exception getException() {
+        return exception;
+    }
+
+    public void setException(Exception exception) {
+        this.exception = exception;
+    }
+
+    public boolean exceptionHappened() {
+        return exception != null;
     }
 }
