@@ -15,12 +15,30 @@ public class User {
     private String education;
     private String job;
     private Date birthday;
+    private Integer score;
+    private boolean selected;
 
-    public int getId() {
+    public boolean isSelected() {
+        return selected;
+    }
+
+    public void setSelected(boolean selected) {
+        this.selected = selected;
+    }
+
+    public Integer getScore() {
+        return score;
+    }
+
+    public void setScore(Integer score) {
+        this.score = score;
+    }
+
+    public Integer getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 
@@ -32,11 +50,11 @@ public class User {
         this.name = name;
     }
 
-    public int getAuthLv() {
+    public Integer getAuthLv() {
         return authLv;
     }
 
-    public void setAuthLv(int authLv) {
+    public void setAuthLv(Integer authLv) {
         this.authLv = authLv;
     }
 

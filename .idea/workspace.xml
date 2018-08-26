@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="095b44d2-c23f-4ac2-a498-5b4fc871cc83" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/api/platform/PlatformService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/entity/platform/AuthorLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/entity/platform/WebFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/api/UserAuthorityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/api/UserAuthorityService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/common/coder/RPCDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/common/coder/RPCDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/protocal/RPCResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/protocal/RPCResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/api/platform/PlatformService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/api/platform/PlatformService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/entity/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/RPCApi-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/RPCApi-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/top/banyaoqiang/RPCApi/api/UserAuthorityService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/banyaoqiang/RPCApi/api/UserAuthorityService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/top/banyaoqiang/RPCApi/api/platform/PlatformService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/banyaoqiang/RPCApi/api/platform/PlatformService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/top/banyaoqiang/RPCApi/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top/banyaoqiang/RPCApi/entity/User.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,26 +35,27 @@
     <session id="-692348112">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
+          <entry key="project.closed" value="28" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="9" />
+          <entry key="project.open.time.1" value="10" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="2655" />
+          <entry key="java" value="2759" />
           <entry key="xml" value="29" />
         </counts>
       </usages-collector>
@@ -70,19 +66,19 @@
       <usages-collector id="statistics.php.new.class" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="15" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="15" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2655" />
+          <entry key="JAVA" value="2759" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="29" />
         </counts>
@@ -93,11 +89,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/api/UserAuthorityService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+            <state relative-caret-position="432">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,18 +101,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/protocal/RPCResponse.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/entity/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+            <state relative-caret-position="380">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
               <folding>
-                <element signature="e#763#764#0" expanded="true" />
-                <element signature="e#795#796#0" expanded="true" />
-                <element signature="e#848#849#0" expanded="true" />
-                <element signature="e#890#891#0" expanded="true" />
-                <element signature="e#932#933#0" expanded="true" />
-                <element signature="e#971#972#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -135,7 +129,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/api/platform/PlatformService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -177,7 +171,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/common/coder/RPCDecoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
+            <state relative-caret-position="504">
               <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -245,13 +239,13 @@
         <option value="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/common/coder/RPCEncoder.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/entity/platform/AuthorLevel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/entity/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/entity/platform/WebFunction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/api/platform/PlatformService.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/entity/platform/NewRegisteredUser.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/common/coder/RPCDecoder.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/protocal/RPCResponse.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/api/UserAuthorityService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/api/platform/PlatformService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/entity/User.java" />
       </list>
     </option>
   </component>
@@ -300,8 +294,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="554" />
-    <option name="width" value="1373" />
+    <option name="x" value="578" />
+    <option name="width" value="1343" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -419,6 +413,17 @@
               <item name="top" type="462c0819:PsiDirectoryNode" />
               <item name="banyaoqiang" type="462c0819:PsiDirectoryNode" />
               <item name="RPCApi" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPCApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPCApi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+              <item name="banyaoqiang" type="462c0819:PsiDirectoryNode" />
+              <item name="RPCApi" type="462c0819:PsiDirectoryNode" />
               <item name="protocal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -435,15 +440,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535118853768" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535119060337" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -531,18 +536,22 @@
       <workItem from="1534940886531" duration="1114000" />
       <workItem from="1535006415275" duration="1069000" />
       <workItem from="1535089508314" duration="797000" />
-      <workItem from="1535107556503" duration="4257000" />
+      <workItem from="1535107556503" duration="4521000" />
+      <workItem from="1535165307949" duration="1198000" />
+      <workItem from="1535192280524" duration="845000" />
+      <workItem from="1535241000867" duration="4392000" />
+      <workItem from="1535275597764" duration="625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41104000" />
+    <option name="totallyTimeSpent" value="48428000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="554" y="0" width="1373" height="1057" extended-state="0" />
+    <frame x="578" y="0" width="1343" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20411272" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.167576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -551,7 +560,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23210412" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23210412" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -568,7 +577,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.32901752" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.16374715" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.14972144" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -628,10 +637,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/entity/platform/NewRegisteredUser.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/entity/User.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/protocal/RPCResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="744">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/api/UserAuthorityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -645,7 +664,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/api/platform/PlatformService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -679,6 +698,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/common/coder/RPCDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
@@ -700,37 +729,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/common/coder/RPCDecoder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="380">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/protocal/RPCResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
-          <folding>
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#795#796#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#890#891#0" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#971#972#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/banyaoqiang/RPCApi/api/UserAuthorityService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
           </folding>
         </state>
       </provider>

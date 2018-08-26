@@ -9,4 +9,6 @@ import java.util.List;
  */
 public interface PlatformService {
     List<WebFunction> getLimitedFunctions(int id);
+
+    List<WebFunction> getAllFunctions();
 }
